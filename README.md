@@ -1,7 +1,7 @@
 # blog_admin_desktop
+后台管理系统桌面版，使用electron+vue构建
 
-
-## Build Setup
+## 运行
 
 ``` bash
 # install dependencies
@@ -20,14 +20,3 @@ npm run lint
 npm run pack
 ```
 ---
-
-
-## Demo
-
-![](https://github.com/PanJiaChen/PanJiaChen.github.io/blob/master/images/electron-login.png)
-
-![](https://github.com/PanJiaChen/PanJiaChen.github.io/blob/master/images/electron-admin.gif)
-
-
-## Download
-Mac: [app release](https://github.com/PanJiaChen/electron-vue-admin/releases/tag/v3.0.0)
